@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_rateus"
+        android:icon="@drawable/ic_rateus"
+        android:title="@string/rate_app_name" />
+
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/ic_share"
+        android:title="@string/share" />
+
+    <item
+        android:id="@+id/nav_privacy"
+        android:icon="@drawable/ic_privacy"
+        android:title="@string/privacy_title" />
+
+    <item
+        android:id="@+id/nav_htd"
+        android:icon="@drawable/ic_help"
+        android:title="@string/how_to_download" />
+
+
+    <item
+        android:id="@+id/nav_language"
+        android:icon="@drawable/ic_language"
+        android:title="@string/change_your_language" />
+
+<!--    <item-->
+<!--        android:id="@+id/nav_about"-->
+<!--        android:icon="@drawable/ic_about"-->
+<!--        android:title="@string/about_title" />-->
+
+
+    <item
+        android:id="@+id/nav_about_developer"
+        android:icon="@drawable/ic_developer"
+        android:title="About Developer" />
+
+</menu>
